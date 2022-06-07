@@ -1,2 +1,7 @@
-# desafio-github-dio-primeiro-repositorio
-Desafio de Projeto Git/Github
+# Desafio de Proj  Git/Github
+
+### Repositorio criado para o desafio de projeto da DIO
+## Links Uteis
+
+
+[Conheça a DIO ](https://www.dio.me/)
